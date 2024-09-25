@@ -1,0 +1,32 @@
+the movie db
+Nomaan8412
+nomaan8412
+
+API Key
+ce34da3e5e66dfc0b0f9035b67d7e587
+
+API Read Access Token
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjZTM0ZGEzZTVlNjZkZmMwYjBmOTAzNWI2N2Q3ZTU4NyIsIm5iZiI6MTcyMTMwODg1Ni4xNTI3NCwic3ViIjoiNjY5Njk0ZjgwZmZkN2VjZTlkYTM5NjY3Iiwic2NvcGVzIjpbImFwaV9yZWFkIl0sInZlcnNpb24iOjF9.B61Pf2A9qEITcnBAOhp2gP4zvKZq6qVNYPmh-hdcTVA
+
+
+https://api.themoviedb.org/3/movie/11?api_key=ce34da3e5e66dfc0b0f9035b67d7e587
+
+Individual:
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=ce34da3e5e66dfc0b0f9035b67d7e587
+
+Now Playing:
+https://api.themoviedb.org/3/movie/now_playing?api_key=ce34da3e5e66dfc0b0f9035b67d7e587
+https://api.themoviedb.org/3/movie/now_playing?api_key=ce34da3e5e66dfc0b0f9035b67d7e587
+
+
+Popular:
+https://api.themoviedb.org/3/movie/popular?api_key=ce34da3e5e66dfc0b0f9035b67d7e587
+
+Top Rated:
+https://api.themoviedb.org/3/movie/top_rated?api_key=ce34da3e5e66dfc0b0f9035b67d7e587
+
+Upcoming: 
+https://api.themoviedb.org/3/movie/upcoming?api_key=ce34da3e5e66dfc0b0f9035b67d7e587
+
+Search:
+https://api.themoviedb.org/3/search/movie?api_key=ce34da3e5e66dfc0b0f9035b67d7e587&query={movie_name}
